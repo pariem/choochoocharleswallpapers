@@ -1,0 +1,137 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_nativeid": "#",
+	  "admob_banner": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+      "admob_rewardid": "#", 
+      "interval": 1,
+      "coin_reward": 0
+    }
+  ],
+  "More":
+  [
+	{
+      "title":"Choo Choo Charles Wallpapers",
+      "image":"#",
+      "link":"https://play.google.com/store/apps/dev?id=4945085497816997134"
+    }
+  ],
+"Categories": [
+    {
+      "name_category": "Choo Choo Charles Wallpapers",
+      "image": "https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/001.webp"
+    }
+  ],
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title":"1",
+      "image":"https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/001.webp",
+      "coin":1000
+    },
+    {
+      "id": 2,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title": "2",
+      "image": "https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/002.webp",
+      "coin":1000
+    },
+    {
+      "id":3,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title":"3",
+      "image":"https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/003.webp",
+      "coin":1000
+    },
+    {
+      "id":4,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title":"4",
+      "image":"https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/004.webp",
+      "coin":1000
+    },
+    {
+      "id":5,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title":"5",
+      "image":"https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/005.webp",
+      "coin":1000
+    },
+    {
+      "id":6,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title":"6",
+      "image":"https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/006.webp",
+      "coin":1000
+    },
+    {
+      "id":7,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title":"7",
+      "image":"https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/007.webp",
+      "coin":1000
+    },
+    {
+      "id":8,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title":"8",
+      "image":"https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/008.webp",
+      "coin":1000
+    },
+    {
+      "id":9,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title":"9",
+      "image":"https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/009.webp",
+      "coin":1000
+    },
+    {
+      "id":10,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title":"10",
+      "image":"https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/010.webp",
+      "coin":1000
+    },
+    {
+      "id": 11,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title": "11",
+      "image": "https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/011.webp",
+      "coin":1000
+    },
+    {
+      "id":12,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title":"12",
+      "image":"https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/012.webp",
+      "coin":1000
+    },
+    {
+      "id":13,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title":"13",
+      "image":"https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/013.webp",
+      "coin":1000
+    },
+    {
+      "id":14,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title":"14",
+      "image":"https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/014.webp",
+      "coin":1000
+    },
+    {
+      "id":15,
+      "name_category": "Choo Choo Charles Wallpapers",
+      "title":"15",
+      "image":"https://cdn.statically.io/gh/pariem/choochoocharleswallpapers/main/015.webp",
+      "coin":1000
+	}
+  ]
+}
